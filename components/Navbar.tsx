@@ -13,7 +13,7 @@ const Navbar = () => {
             width={118}
             height={18}
             className="object-contain"
-            src={"/logo.svg"}
+            src={"/logo-no-background.svg"}
           />
         </Link>
         <CustomButton
